@@ -9,10 +9,9 @@ body {
 	}
 	
 h1 {
-	font: bold 1.9em Georgia, serif;
+	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	font-weight: normal; 
-	text-transform: uppercase;
 	text-shadow: .05em .05em .1em lightslategray;
 	border-bottom: 1px solid #57b1dc;
 	margin-top: 30px;
@@ -37,4 +36,4 @@ color: #0195b5;
 }
 a:visited {
 color: #047188;
-} 
+}
