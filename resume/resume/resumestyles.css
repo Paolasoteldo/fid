@@ -22,7 +22,7 @@ h3 {
 	font-family: 'Cinzel', serif;
 	color: #6D129F;
 	font-size: 1.5em;
-	border-bottom: 0.4px solid #6D129F;
+	border-bottom: 1px solid #6D129F;
 	text-align: center;
 }
 h4 {
@@ -42,8 +42,8 @@ ul {
 	margin-left: 2.5em; 
 }
 a:link {
-color: black;
+color: Black;
 }
 a:visited {
-color: black;
+color: Black;
 }
